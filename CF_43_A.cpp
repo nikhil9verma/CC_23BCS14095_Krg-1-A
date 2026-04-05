@@ -1,12 +1,3 @@
-//============================================================================
-//problem link:http://codeforces.com/contest/43/problem/A
-// Name        : .cpp
-// Author      : mohand sakr
-// Version     :
-// Copyright   : use it under your responsibility
-// Description : Hello World in C++, Ansi-style
-//status:accepted
-//============================================================================
 
 #include <iostream>
 #include<map>
